@@ -2,7 +2,7 @@
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
-Create a game inspired by Simon, where users can test their memory skills by remembering and reproducing the correct order of colors. Challenge yourself by implementing responsive design to ensure seamless gameplay across various devices and screen sizes.
+Create a game inspired by Simon, where users can test their memory skills by remembering and reproducing the correct order of colors. Challenge yourself by implementing responsive design to ensure seamless gameplay across variousj devices and screen sizes.
 
 ## How to start
 
